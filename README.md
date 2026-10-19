@@ -131,6 +131,3 @@ With all components configured and running, it's time for the crucial test.
     Observe Annelid: If everything is configured correctly, Annelid should detect these events and automatically perform the splits, updating the timer and current segment.
 
 Congratulations! If the splits activate, you have successfully set up your autosplitter for Super Metroid on Linux. Enjoy your speedruns!
-
-
-s speedruns!
